@@ -1,0 +1,127 @@
+*{
+    box-sizing: border-box;
+}
+
+
+#body{
+    border: 2px solid black;
+    width: 1230px;
+    height: 451px;
+    position: relative;
+    margin: 50px auto;
+
+
+}
+
+#bg{
+   position: absolute;
+   width: 1230px;
+   height: 451px;
+   top: 0;
+   left: 0;
+   filter: brightness(50%);
+   
+
+}
+
+#input{
+    position: absolute;
+    width: 918px;
+    height: 56px;
+    background-color: white;
+    top: 282px;
+    left: 120px;
+    border-radius: 15px;
+    
+}
+
+#Lucknow{
+    color: gray;
+}
+
+#search{
+    position: absolute;
+    width: 60px;
+    height: 35px;
+    top: 8px;
+    left: 335px;
+
+
+}
+
+#loc{
+    position: absolute;
+    padding-left: 20px;
+    padding-right: 147px;
+    top: 18px;
+    left: 30px;
+    font-size: large;
+    border: none;
+    outline: none;
+    color: gray;
+
+    
+
+    
+}
+
+#vl{
+    position: absolute;
+    height: 25px;
+    width: 2px;
+    background-color: rgb(142, 139, 139);
+    top: 15px;
+    right: 615px;
+}
+
+
+#red{
+    height: 30px;
+    width:50px;
+    position: absolute;
+    margin-left: 2px;
+    left: 2px;
+    top: 13px;
+    border-radius: 50%;
+
+
+}
+
+p{
+    position: absolute;
+    left: 401px;
+    top: 0;
+    color: gray;
+    font-family: sans-serif;
+}
+
+h1{
+    position: absolute;
+    color: white;
+    top: 80px;
+    right: 460px;
+    line-height: 50px;
+    font-size: 115px;
+
+
+}
+
+h3{
+    position: absolute;
+    color: white;
+    top: 195px;
+    right: 303px;
+    line-height: 50px;
+    font-size: 33px;
+    font-family: sans-serif;
+    font-weight: 200;
+
+}
+
+
+
+
+
+
+
+
